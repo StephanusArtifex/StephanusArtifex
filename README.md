@@ -31,18 +31,7 @@ One continuum:
 
 ## Core Languages
 
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" title="SQL"/><br/>
-  <sub><b>SQL</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/><br/>
-  <sub><b>Python</b></sub>
-</td>
-</tr>
-</table>
+**SQL · Python**
 
 **SQL** and **Python** are my core languages.
 
@@ -58,17 +47,17 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg" width="36" height="36" alt="Excel" title="Excel"/><br/>
-  <sub><b>Excel</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" height="32" alt="Excel"/><br/>
+  <sub>Excel</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36" alt="Power BI" title="Power BI"/><br/>
-  <sub><b>Power BI</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" height="32" alt="Power BI"/><br/>
+  <sub>Power BI</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" width="36" height="36" alt="Power Query" title="Power Query"/><br/>
-  <sub><b>Power Query</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Query-Colored.png" width="30" height="30" alt="Power Query"/><br/>
+  <sub>Power Query</sub>
 </td>
 </tr>
 </table>
@@ -79,25 +68,29 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/><br/>
-  <sub><b>Python</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Python"/><br/>
+  <sub>Python</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/><br/>
-  <sub><b>NumPy</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy"/><br/>
+  <sub>NumPy</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/><br/>
-  <sub><b>pandas</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="32" height="32" alt="pandas"/><br/>
+  <sub>pandas</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib"/><br/>
-  <sub><b>Matplotlib</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="32" height="32" alt="Matplotlib"/><br/>
+  <sub>Matplotlib</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/><br/>
-  <sub><b>Jupyter</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="30" height="30" alt="Seaborn"/><br/>
+  <sub>Seaborn</sub>
+</td>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="32" height="32" alt="Jupyter"/><br/>
+  <sub>Jupyter</sub>
 </td>
 </tr>
 </table>
@@ -106,21 +99,9 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn"/><br/>
-  <sub><b>scikit-learn</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/><br/>
-  <sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/><br/>
-  <sub><b>pandas</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/><br/>
-  <sub><b>Jupyter</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" height="32" alt="scikit-learn"/><br/>
+  <sub>scikit-learn</sub>
 </td>
 </tr>
 </table>
@@ -131,17 +112,17 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/><br/>
-  <sub><b>PyTorch</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch"/><br/>
+  <sub>PyTorch</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/><br/>
-  <sub><b>TensorFlow</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="32" height="32" alt="TensorFlow"/><br/>
+  <sub>TensorFlow</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/huggingface" width="36" height="36" alt="Hugging Face" title="Hugging Face"/><br/>
-  <sub><b>Hugging Face</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face"/><br/>
+  <sub>Hugging Face</sub>
 </td>
 </tr>
 </table>
@@ -152,25 +133,25 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL"/><br/>
-  <sub><b>MySQL</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL"/><br/>
+  <sub>MySQL</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/><br/>
-  <sub><b>Docker</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/><br/>
+  <sub>Docker</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Airflow" title="Airflow"/><br/>
-  <sub><b>Airflow</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="32" height="32" alt="Airflow"/><br/>
+  <sub>Airflow</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/apachespark" width="36" height="36" alt="Spark / PySpark" title="Spark / PySpark"/><br/>
-  <sub><b>Spark / PySpark</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="32" height="32" alt="Spark / PySpark"/><br/>
+  <sub>Spark / PySpark</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" height="36" alt="AWS" title="AWS"/><br/>
-  <sub><b>AWS</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" height="26" alt="AWS"/><br/>
+  <sub>AWS</sub>
 </td>
 </tr>
 </table>
@@ -181,17 +162,25 @@ One continuum:
 
 <table>
 <tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/><br/>
-  <sub><b>Git</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git"/><br/>
+  <sub>Git</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub"/><br/>
-  <sub><b>GitHub</b></sub>
+<td align="center" valign="top" width="96">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/>
+  </picture><br/>
+  <sub>GitHub</sub>
 </td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux"/><br/>
-  <sub><b>Linux</b></sub>
+<td align="center" valign="top" width="96">
+  <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-5.svg" width="32" height="32" alt="Cursor"/><br/>
+  <sub>Cursor</sub>
+</td>
+<td align="center" valign="top" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/><br/>
+  <sub>Linux</sub>
 </td>
 </tr>
 </table>
@@ -202,7 +191,7 @@ One continuum:
 
 ## What I Build
 
-I am building one body of work across the data and AI stack.
+**One body of work across the data and AI stack:**
 
 - **Analytics:** SQL analysis, Excel models and Power BI dashboards
 - **Data Science:** exploratory analysis, statistical inference, feature engineering and predictive modelling
