@@ -48,11 +48,11 @@ One continuum:
 <table>
 <tr>
 <td align="center" valign="top" width="96">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" height="32" alt="Excel"/><br/>
+  <img src="./assets/icons/excel.svg" width="32" height="32" alt="Excel"/><br/>
   <sub>Excel</sub>
 </td>
 <td align="center" valign="top" width="96">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" height="32" alt="Power BI"/><br/>
+  <img src="./assets/icons/power-bi.svg" width="32" height="32" alt="Power BI"/><br/>
   <sub>Power BI</sub>
 </td>
 <td align="center" valign="top" width="96">
@@ -103,10 +103,14 @@ One continuum:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" height="32" alt="scikit-learn"/><br/>
   <sub>scikit-learn</sub>
 </td>
+<td align="center" valign="top" width="96">
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/XGBoost%20logo.svg" width="64" height="22" alt="XGBoost"/><br/>
+  <sub>XGBoost</sub>
+</td>
 </tr>
 </table>
 
-`Regression` · `Classification` · `Clustering` · `PCA` · `Feature Engineering` · `Model Selection` · `Cross-Validation` · `Recommendation Systems` · `NLP`
+`Regression` · `Classification` · `Clustering` · `Gradient Boosting` · `PCA` · `Feature Engineering` · `Model Selection` · `Cross-Validation` · `Recommendation Systems` · `NLP`
 
 ### Deep Learning & AI Engineering
 
