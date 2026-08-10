@@ -31,13 +31,18 @@ One continuum:
 
 ## Core Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="SQL" title="SQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/>
-</p>
-
-**SQL · Python**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" title="SQL"/><br/>
+  <sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/><br/>
+  <sub><b>Python</b></sub>
+</td>
+</tr>
+</table>
 
 **SQL** and **Python** are my core languages.
 
@@ -51,93 +56,145 @@ One continuum:
 
 ### Analytics & Business Intelligence
 
-<p>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg" width="36" height="36" alt="Excel" title="Excel"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36" alt="Power BI" title="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" width="36" height="36" alt="Power Query" title="Power Query"/>
-</p>
-
-**Excel · Power BI · Power Query · DAX**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg" width="36" height="36" alt="Excel" title="Excel"/><br/>
+  <sub><b>Excel</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36" alt="Power BI" title="Power BI"/><br/>
+  <sub><b>Power BI</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" width="36" height="36" alt="Power Query" title="Power Query"/><br/>
+  <sub><b>Power Query</b></sub>
+</td>
+</tr>
+</table>
 
 `Data Modelling` · `Data Visualisation`
 
 ### Data & Scientific Computing
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/>
-</p>
-
-**Python · SQL · NumPy · pandas · Matplotlib · Jupyter**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/><br/>
+  <sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/><br/>
+  <sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/><br/>
+  <sub><b>pandas</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib"/><br/>
+  <sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/><br/>
+  <sub><b>Jupyter</b></sub>
+</td>
+</tr>
+</table>
 
 ### Data Science & Machine Learning
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/>
-</p>
-
-**scikit-learn · NumPy · pandas · Jupyter**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn"/><br/>
+  <sub><b>scikit-learn</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/><br/>
+  <sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas"/><br/>
+  <sub><b>pandas</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/><br/>
+  <sub><b>Jupyter</b></sub>
+</td>
+</tr>
+</table>
 
 `Regression` · `Classification` · `Clustering` · `PCA` · `Feature Engineering` · `Model Selection` · `Cross-Validation` · `Recommendation Systems` · `NLP`
 
 ### Deep Learning & AI Engineering
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" width="36" height="36" alt="Hugging Face" title="Hugging Face"/>
-</p>
-
-**PyTorch · TensorFlow · Hugging Face**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/><br/>
+  <sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/><br/>
+  <sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/huggingface" width="36" height="36" alt="Hugging Face" title="Hugging Face"/><br/>
+  <sub><b>Hugging Face</b></sub>
+</td>
+</tr>
+</table>
 
 `Hugging Face Transformers` · `LLMs` · `Embeddings` · `RAG` · `Inference APIs`
 
 ### Data Engineering, Infrastructure & Cloud
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Apache Airflow" title="Apache Airflow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark" width="36" height="36" alt="Apache Spark" title="Apache Spark / PySpark"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" height="36" alt="AWS" title="AWS"/>
-</p>
-
-**PostgreSQL · Docker · Apache Airflow · Spark / PySpark · AWS**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL"/><br/>
+  <sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/><br/>
+  <sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Airflow" title="Airflow"/><br/>
+  <sub><b>Airflow</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/apachespark" width="36" height="36" alt="Spark / PySpark" title="Spark / PySpark"/><br/>
+  <sub><b>Spark / PySpark</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" height="36" alt="AWS" title="AWS"/><br/>
+  <sub><b>AWS</b></sub>
+</td>
+</tr>
+</table>
 
 `ETL/ELT` · `Data Pipelines` · `Data Warehousing` · `Data Lakes` · `Relational Modelling` · `Normalisation`
 
 ### Engineering Practice
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux"/>
-</p>
-
-**Git · GitHub · Linux**
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/><br/>
+  <sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub"/><br/>
+  <sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux"/><br/>
+  <sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
 
 `APIs` · `Version Control` · `Reproducible Workflows`
 
