@@ -81,6 +81,10 @@ One continuum:
   <sub>pandas</sub>
 </td>
 <td align="center" valign="top" width="96">
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/icons/favicon-32x32.png" width="32" height="32" alt="Polars"/><br/>
+  <sub>Polars</sub>
+</td>
+<td align="center" valign="top" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="32" height="32" alt="Matplotlib"/><br/>
   <sub>Matplotlib</sub>
 </td>
