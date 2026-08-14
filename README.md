@@ -55,10 +55,6 @@ One continuum:
   <img src="./assets/icons/power-bi.svg" width="32" height="32" alt="Power BI"/><br/>
   <sub>Power BI</sub>
 </td>
-<td align="center" valign="top" width="96">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Query-Colored.png" width="30" height="30" alt="Power Query"/><br/>
-  <sub>Power Query</sub>
-</td>
 </tr>
 </table>
 
@@ -92,10 +88,6 @@ One continuum:
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="30" height="30" alt="Seaborn"/><br/>
   <sub>Seaborn</sub>
 </td>
-<td align="center" valign="top" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="32" height="32" alt="Jupyter"/><br/>
-  <sub>Jupyter</sub>
-</td>
 </tr>
 </table>
 
@@ -107,26 +99,18 @@ One continuum:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" height="32" alt="scikit-learn"/><br/>
   <sub>scikit-learn</sub>
 </td>
-<td align="center" valign="top" width="96">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/XGBoost%20logo.svg" width="64" height="22" alt="XGBoost"/><br/>
-  <sub>XGBoost</sub>
-</td>
 </tr>
 </table>
 
 `Regression` · `Classification` · `Clustering` · `Gradient Boosting` · `PCA` · `Feature Engineering` · `Model Selection` · `Cross-Validation` · `Recommendation Systems` · `NLP`
 
-### Deep Learning & AI Engineering
+### Deep Learning → AI Engineering
 
 <table>
 <tr>
 <td align="center" valign="top" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch"/><br/>
   <sub>PyTorch</sub>
-</td>
-<td align="center" valign="top" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="32" height="32" alt="TensorFlow"/><br/>
-  <sub>TensorFlow</sub>
 </td>
 <td align="center" valign="top" width="96">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face"/><br/>
@@ -137,7 +121,7 @@ One continuum:
 
 `Hugging Face Transformers` · `LLMs` · `Embeddings` · `RAG` · `Inference APIs`
 
-### Data Engineering, Infrastructure & Cloud
+### Data Engineering & Infrastructure
 
 <table>
 <tr>
@@ -157,10 +141,6 @@ One continuum:
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="32" height="32" alt="Spark / PySpark"/><br/>
   <sub>Spark / PySpark</sub>
 </td>
-<td align="center" valign="top" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" height="26" alt="AWS"/><br/>
-  <sub>AWS</sub>
-</td>
 </tr>
 </table>
 
@@ -173,18 +153,6 @@ One continuum:
 <td align="center" valign="top" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git"/><br/>
   <sub>Git</sub>
-</td>
-<td align="center" valign="top" width="96">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/>
-  </picture><br/>
-  <sub>GitHub</sub>
-</td>
-<td align="center" valign="top" width="96">
-  <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-5.svg" width="32" height="32" alt="Cursor"/><br/>
-  <sub>Cursor</sub>
 </td>
 <td align="center" valign="top" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/><br/>
