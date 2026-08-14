@@ -48,11 +48,11 @@ One continuum:
 <table>
 <tr>
 <td align="center" valign="top" width="96">
-  <img src="./assets/icons/excel.svg" width="32" height="32" alt="Excel"/><br/>
+  <img src="https://raw.githubusercontent.com/StephanusArtifex/StephanusArtifex/master/assets/icons/excel.svg" width="32" height="32" alt="Excel"/><br/>
   <sub>Excel</sub>
 </td>
 <td align="center" valign="top" width="96">
-  <img src="./assets/icons/power-bi.svg" width="32" height="32" alt="Power BI"/><br/>
+  <img src="https://raw.githubusercontent.com/StephanusArtifex/StephanusArtifex/master/assets/icons/power-bi.svg" width="32" height="32" alt="Power BI"/><br/>
   <sub>Power BI</sub>
 </td>
 </tr>
@@ -85,7 +85,7 @@ One continuum:
   <sub>Matplotlib</sub>
 </td>
 <td align="center" valign="top" width="96">
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="30" height="30" alt="Seaborn"/><br/>
+  <img src="./assets/icons/seaborn.svg" width="30" height="30" alt="Seaborn"/><br/>
   <sub>Seaborn</sub>
 </td>
 </tr>
